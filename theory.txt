@@ -1,0 +1,44 @@
+#css
+1. inline Most powerfull 
+2. internal powerfull
+3. external not powerfull (use best)*****
+
+=====================
+#css
+
+1. inline
+<!-- 18. My First CSS -->
+    <!-- #css inline <p style="font-weight: bold;color:blue;">paragraph Bold,color,etc</p-->
+================================
+19. Using Internal CSS
+2. internal (header option)
+
+<style>
+        p1{
+            font-weight: bold;color:green;
+        }
+
+    </style>
+===================================
+ <!-- 20. Using External CSS vs code folder #css-style.css-->
+     <!-- style.css folder linkup with index.com must -->
+
+ <!-- External CSS link -->
+     <link href="css/style.css" rel="stylesheet"
+
+     h2{
+    font-weight: bold;
+    background-color: blue;
+    color:aqua;
+}
+
+p2{
+    font-weight: bold;
+    background-color: blue;
+    color:aqua;
+}
+======================================
+
+21. Power of CSS- IT-Bari.com - Web Design Bangla Video Tutorial
+*****Power of CSS -Inline>Internal>External css--
+    *****CSS 2 tar modde pore jeta thake seta active hoi
